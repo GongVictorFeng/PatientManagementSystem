@@ -1,6 +1,8 @@
 # PatientManagementSystem
 A web application for patient management using Spring Boot and React
 
+Demo video: https://drive.google.com/file/d/1tfZ0PT_y667y2jh1rs-iNvEB0Ng3u3yY/view
+
 # Project Structure
 
 * folder `server` holds the backend Spring server
